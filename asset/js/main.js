@@ -1,3 +1,5 @@
+AOS.init();
+
 $(document).ready(function(){
     var yourNavigation = $("header");
         stickyDiv = "scrolled";
