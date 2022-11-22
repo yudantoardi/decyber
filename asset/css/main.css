@@ -628,6 +628,9 @@ header .logo{
 .card-3.active li{
     color: #fff;
 }
+.card-3 .text h4{
+    font-size: 20px;
+}
 
 /*SECTION 5*/
 .section-5{
